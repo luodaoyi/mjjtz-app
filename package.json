@@ -23,7 +23,7 @@
     "@nuxtjs/stylelint-module": "^4.0.0",
     "@nuxtjs/vercel-builder": "^0.22.1",
     "eslint-config-prettier": "^8.3.0",
-    "prettier": "^2.5.1",
+    "prettier": "^2.6.0",
     "stylelint": "^13.13.1",
     "stylelint-config-prettier": "^9.0.3",
     "stylelint-config-standard": "^22.0.0"
